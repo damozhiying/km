@@ -74,4 +74,4 @@ http://www.codeforge.cn/
 
 kafaka工具：http://www.kafkatool.com/download.html
 
-redis client gui: https://github.com/caoxinyu/RedisClient
+redis client gui: https://github.com/cinience/RedisStudio
