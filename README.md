@@ -73,3 +73,5 @@ https://www.ctolib.com/
 http://www.codeforge.cn/
 
 kafaka工具：http://www.kafkatool.com/download.html
+
+redis client gui: https://redisdesktop.com/
