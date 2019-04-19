@@ -67,6 +67,8 @@ go storage: https://github.com/gostor/awesome-go-storage
 
 awesome: https://github.com/topics/awesome?o=desc&s=stars
 
+Ai Learning: https://github.com/apachecn/AiLearning
+
 https://github.com/xitu/gold-miner 掘金翻译计划 是一个翻译优质互联网技术文章的社区，文章来源为 掘金 上的英文分享文章。内容覆盖人工智能、Android、iOS、React、前端、后端、产品、设计 等领域，读者为热爱新技术的新锐开发者。
 
 https://www.ctolib.com/
