@@ -59,7 +59,9 @@ Azure Service Fabric 是一款分布式系统平台 https://github.com/Microsoft
 awesome-microservices: https://github.com/mfornos/awesome-microservices
 
 
-go : https://github.com/avelino/awesome-go
+awesome-go : https://github.com/avelino/awesome-go
+
+awesome-go CN:https://github.com/guanhui07/blog/issues/220
 
 go trending : https://github.com/trending/go
 
