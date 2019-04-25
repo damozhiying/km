@@ -22,3 +22,4 @@ git使用的是：gitlab
 镜像仓库：harbor
 微服务：Spring cloud
 trace：Skywalking
+Choerodon猪齿鱼有实现OAuth2：https://github.com/choerodon/iam-service
