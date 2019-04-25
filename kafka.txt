@@ -1,1 +1,16 @@
 kafka 脑图： https://www.xmind.net/m/JSNj/
+
+kafka消费者如何才能从头开始消费某个topic的全量数据
+消费者要从头开始消费某个topic的全量数据，需要满足2个条件（spring-kafka）：
+
+（1）使用一个全新的"group.id"（就是之前没有被任何消费者使用过）;
+
+（2）指定"auto.offset.reset"参数的值为earliest；
+对应的spring-kafka消费者客户端配置参数为：
+
+<!-- 指定消费组名 -->
+<entry key="group.id" value="fg11"/>
+<!-- 从何处开始消费,latest 表示消费最新消息,earliest 表示从头开始消费,none表示抛出异常,默认latest -->
+<entry key="auto.offset.reset" value="earliest"/>
+
+处处：https://www.cnblogs.com/jun1019/p/6700923.html
