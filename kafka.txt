@@ -1,3 +1,5 @@
+kafaka client工具：http://www.kafkatool.com/download.html
+
 kafka 脑图： https://www.xmind.net/m/JSNj/
 
 kafka消费者如何才能从头开始消费某个topic的全量数据
